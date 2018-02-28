@@ -1,5 +1,5 @@
-# Ensemble Learning Approach to Lithofacies Classification Using Well LogsL
-for Janet Watson 2018 Big Data Explosion Meeting  
+# Ensemble Learning Approach to Lithofacies Classification Using Well Logs
+*for Janet Watson 2018 Big Data Explosion Meeting*  
 
 Didi Ooi, Licheng Zhang, Cheng Zhan  
 * email: didi.ooi@bristol.ac.uk  
