@@ -4,6 +4,10 @@
 Didi Ooi, Licheng Zhang, Cheng Zhan  
 * email: didi.ooi@bristol.ac.uk  
 
+### From SEG ML Contest organized by Matt Hall and Brendon Hall
+[**Link**](https://github.com/seg/2016-ml-contest/tree/master/HouMath)
+
+
 ## Abstract for Technical Talk  
 
 This talk presents a geologic facies classification using a supervised machine learning gradient boosting classifier, implemented in scikit-learn. With over 4000 training examples based on 7 predictor variables from logs in ten wells and over 800 test data in two wells to predict 9 different facies classes from a carbonate gas reservoir, the classifier algorithm resulted in F1 score of 0.630.  
