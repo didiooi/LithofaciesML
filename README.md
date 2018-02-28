@@ -21,10 +21,8 @@ The importance of feature engineering, which requires domain knowledge expertise
 
 Due to the proprietary nature of geoscience data, the data size is limited to what was provided, but this provides a stepping stone for geoscientists to further explore and apply machine learning techniques to lithofacies prediction, while employing their domain knowledge to further enhance the accuracy of predictive models. Potential applications can be used in many ways including validating velocity models for seismic data, fault interpretation and well top interpretation.  
 
-
- 
-![](https://github.com/didiooi/LithofaciesML/blob/master/Figure.png)
-Figure 1.  Left to right: A series of well logs - Gamma ray (GR), resistivity (ILD_log10), photoelectric effect (PE) neutron-density porosity difference (DeltaPHI), average neutron-density porosity (PHIND); followed by facies classification solution showing the predicted facies (Prediction) and true interpreted facies (True Labels). The facies are, from top to bottom: bafflestone (BS), packestone (PS), dolomite (D), wackestone (WS), mudstone (MS), siltstone and shale (SiSh), nonmarine fine siltstone (FSiS), nonmarine coarse siltstone (CSiS), nonmarine sandstone (SS).
+![](https://github.com/didiooi/LithofaciesML/blob/master/Figure.png)  
+Figure 1.  Left to right: A series of well logs - Gamma ray (GR), resistivity (ILD_log10), photoelectric effect (PE) neutron-density porosity difference (DeltaPHI), average neutron-density porosity (PHIND); followed by facies classification solution showing the predicted facies (Prediction) and true interpreted facies (True Labels). The facies are, from top to bottom: bafflestone (BS), packestone (PS), dolomite (D), wackestone (WS), mudstone (MS), siltstone and shale (SiSh), nonmarine fine siltstone (FSiS), nonmarine coarse siltstone (CSiS), nonmarine sandstone (SS).  
 
 ### Acknowledgements:
 Thanks to Matt Hall (Agile) and Brendon Hall (Enthought) for organizing the SEG Machine Learning challenge.
