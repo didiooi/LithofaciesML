@@ -1,8 +1,8 @@
 # Ensemble Learning Approach to Lithofacies Classification Using Well Logs
-*for Janet Watson 2018 Big Data Explosion Meeting*  
-
+* *for Janet Watson 2018 Big Data Explosion Meeting*  
 Didi Ooi, Licheng Zhang, Cheng Zhan  
-* email: didi.ooi@bristol.ac.uk  
+Email: didi.ooi@bristol.ac.uk  
+
 [**Link**](https://github.com/seg/2016-ml-contest/tree/master/HouMath) to SEG ML Contest organized by Matt Hall and Brendon Hall.
 
 
