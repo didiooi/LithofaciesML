@@ -25,8 +25,9 @@ Due to the proprietary nature of geoscience data, the data size is limited to wh
 Figure 1.  Left to right: A series of well logs - Gamma ray (GR), resistivity (ILD_log10), photoelectric effect (PE) neutron-density porosity difference (DeltaPHI), average neutron-density porosity (PHIND); followed by facies classification solution showing the predicted facies (Prediction) and true interpreted facies (True Labels). The facies are, from top to bottom: bafflestone (BS), packestone (PS), dolomite (D), wackestone (WS), mudstone (MS), siltstone and shale (SiSh), nonmarine fine siltstone (FSiS), nonmarine coarse siltstone (CSiS), nonmarine sandstone (SS).  
 
 ### Acknowledgements:
-Thanks to Matt Hall (Agile) and Brendon Hall (Enthought) for organizing the SEG Machine Learning challenge.
-References
-Hall, B. (2016). Facies classification using machine learning. The Leading Edge, 35(10), 906-909.
-Friedman, J. H. (2000) Greedy function approximation: A gradient boosting machine: Annals of Statistics, 29, 1189–1232.
+Thanks to Matt Hall (Agile) and Brendon Hall (Enthought) for organizing the SEG Machine Learning challenge.  
+
+**References**  
+Hall, B. (2016). Facies classification using machine learning. The Leading Edge, 35(10), 906-909.  
+Friedman, J. H. (2000) Greedy function approximation: A gradient boosting machine: Annals of Statistics, 29, 1189–1232.  
 
