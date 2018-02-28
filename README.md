@@ -3,9 +3,7 @@
 
 Didi Ooi, Licheng Zhang, Cheng Zhan  
 * email: didi.ooi@bristol.ac.uk  
-
-### From SEG ML Contest organized by Matt Hall and Brendon Hall
-[**Link**](https://github.com/seg/2016-ml-contest/tree/master/HouMath)
+[**Link**](https://github.com/seg/2016-ml-contest/tree/master/HouMath) to SEG ML Contest organized by Matt Hall and Brendon Hall.
 
 
 ## Abstract for Technical Talk  
